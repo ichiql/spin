@@ -1,14 +1,15 @@
 {
-  "name": "@ichiql/spin",
-  "version": "0.1.4",
+  "name": "kurukuru",
+  "version": "0.0.1",
   "description": "simple spinner for stdout",
   "keywords": [
     "spin",
+    "kurukuru",
     "stdout"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ichiql/spin.git"
+    "url": "git+https://github.com/nantokaworks/kurukuru.git"
   },
   "license": "MIT",
   "author": "Yamashita, Shinichi",

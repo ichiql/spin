@@ -1,9 +1,9 @@
-# @ichiql/spin
+# kurukuru
 
 ```shell
-pnpm add @ichiql/spin
-npm install @ichiql/spin
-yarn add @ichiql/spin
+pnpm add kurukuru
+npm install kurukuru
+yarn add kurukuru
 ```
 
 stdout へクルクルスピン出力
@@ -11,7 +11,7 @@ stdout へクルクルスピン出力
 Crucial spin output to stdout
 
 ```js
-import { spin, spinEnd } from '@ichiql/spin'
+import { spin, spinEnd } from 'kurukuru'
 
 spin({ suffix: ' kurukuru' }) // ⠙ kurukuru
 spin({ suffix: ' kurukuru' }) // ⠹ kurukuru
