@@ -32,9 +32,9 @@
     "prepublish": "pnpm build",
     "test": "jest"
   },
-  "prettier": "@ichiql/prettier-config",
+  "prettier": "prettier-config-nantokaworks",
   "devDependencies": {
-    "@ichiql/prettier-config": "^0.1.1",
+    "prettier-config-nantokaworks": "^0.1.1",
     "@jest/globals": "^29.5.0",
     "@types/node": "^20.9.2",
     "eslint": "^8.53.0",
